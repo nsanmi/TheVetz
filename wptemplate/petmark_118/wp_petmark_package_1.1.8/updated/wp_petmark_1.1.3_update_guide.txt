@@ -1,0 +1,5 @@
+***Petmark_1.1.3 update guide:
+- Before update, please backup your site
+- Download theme updated
+- Extract petmark_updated_1.1.2_to_1.1.3.zip and open petmark folder
+- Copy all files in petmark folder override to: wp-content\themes\your_theme
